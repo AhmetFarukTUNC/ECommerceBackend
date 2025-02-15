@@ -3,6 +3,98 @@
   "WorkspaceRootPath": "C:\\Users\\atunc\\source\\repos\\ETicaret\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DAA972AF-0DA9-4D13-9E2D-5C5442B8155C}|Presentation\\ECOMMERCEAP\u0130\\ECOMMERCEAP\u0130.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\presentation\\ecommerceap\u0130\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA972AF-0DA9-4D13-9E2D-5C5442B8155C}|Presentation\\ECOMMERCEAP\u0130\\ECOMMERCEAP\u0130.csproj|solutionrelative:presentation\\ecommerceap\u0130\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\infrastructure\\persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\infrastructure\\persistence\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\infrastructure\\persistence\\repositories\\product\\productwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\product\\productwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA972AF-0DA9-4D13-9E2D-5C5442B8155C}|Presentation\\ECOMMERCEAP\u0130\\ECOMMERCEAP\u0130.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\presentation\\ecommerceap\u0130\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DAA972AF-0DA9-4D13-9E2D-5C5442B8155C}|Presentation\\ECOMMERCEAP\u0130\\ECOMMERCEAP\u0130.csproj|solutionrelative:presentation\\ecommerceap\u0130\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA972AF-0DA9-4D13-9E2D-5C5442B8155C}|Presentation\\ECOMMERCEAP\u0130\\ECOMMERCEAP\u0130.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\presentation\\ecommerceap\u0130\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA972AF-0DA9-4D13-9E2D-5C5442B8155C}|Presentation\\ECOMMERCEAP\u0130\\ECOMMERCEAP\u0130.csproj|solutionrelative:presentation\\ecommerceap\u0130\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\infrastructure\\persistence\\repositories\\order\\orderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\order\\orderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED0D332-DBC9-4F63-B6F3-4A82A100DD26}|Core\\Application\\Application.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\core\\application\\repositories\\order\\iorderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED0D332-DBC9-4F63-B6F3-4A82A100DD26}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\repositories\\order\\iorderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED0D332-DBC9-4F63-B6F3-4A82A100DD26}|Core\\Application\\Application.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\core\\application\\repositories\\product\\iproductreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED0D332-DBC9-4F63-B6F3-4A82A100DD26}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\repositories\\product\\iproductreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED0D332-DBC9-4F63-B6F3-4A82A100DD26}|Core\\Application\\Application.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\core\\application\\repositories\\order\\iorderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED0D332-DBC9-4F63-B6F3-4A82A100DD26}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\repositories\\order\\iorderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\infrastructure\\persistence\\repositories\\order\\orderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\order\\orderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\infrastructure\\persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\infrastructure\\persistence\\repositories\\product\\productreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\product\\productreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\infrastructure\\persistence\\repositories\\customer\\customerwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\customer\\customerwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\infrastructure\\persistence\\repositories\\customer\\customerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\customer\\customerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED0D332-DBC9-4F63-B6F3-4A82A100DD26}|Core\\Application\\Application.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\core\\application\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED0D332-DBC9-4F63-B6F3-4A82A100DD26}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED0D332-DBC9-4F63-B6F3-4A82A100DD26}|Core\\Application\\Application.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\core\\application\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED0D332-DBC9-4F63-B6F3-4A82A100DD26}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED0D332-DBC9-4F63-B6F3-4A82A100DD26}|Core\\Application\\Application.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\core\\application\\repositories\\product\\iproductwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED0D332-DBC9-4F63-B6F3-4A82A100DD26}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\repositories\\product\\iproductwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED0D332-DBC9-4F63-B6F3-4A82A100DD26}|Core\\Application\\Application.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\core\\application\\repositories\\customer\\icustomerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED0D332-DBC9-4F63-B6F3-4A82A100DD26}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\repositories\\customer\\icustomerreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE399023-B669-4EF9-95B5-7E2AA61CE7C9}|Core\\Domain\\Domain.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\core\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE399023-B669-4EF9-95B5-7E2AA61CE7C9}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED0D332-DBC9-4F63-B6F3-4A82A100DD26}|Core\\Application\\Application.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\core\\application\\repositories\\customer\\icustomerwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED0D332-DBC9-4F63-B6F3-4A82A100DD26}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\repositories\\customer\\icustomerwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED0D332-DBC9-4F63-B6F3-4A82A100DD26}|Core\\Application\\Application.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\core\\application\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED0D332-DBC9-4F63-B6F3-4A82A100DD26}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED0D332-DBC9-4F63-B6F3-4A82A100DD26}|Core\\Application\\Application.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\core\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2ED0D332-DBC9-4F63-B6F3-4A82A100DD26}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\infrastructure\\persistence\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +103,8 @@
       "RelativeMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\infrastructure\\persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAA972AF-0DA9-4D13-9E2D-5C5442B8155C}|Presentation\\ECOMMERCEAP\u0130\\ECOMMERCEAP\u0130.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\presentation\\ecommerceap\u0130\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DAA972AF-0DA9-4D13-9E2D-5C5442B8155C}|Presentation\\ECOMMERCEAP\u0130\\ECOMMERCEAP\u0130.csproj|solutionrelative:presentation\\ecommerceap\u0130\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DAA972AF-0DA9-4D13-9E2D-5C5442B8155C}|Presentation\\ECOMMERCEAP\u0130\\ECOMMERCEAP\u0130.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\presentation\\ecommerceap\u0130\\ecommerceap\u0130.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DAA972AF-0DA9-4D13-9E2D-5C5442B8155C}|Presentation\\ECOMMERCEAP\u0130\\ECOMMERCEAP\u0130.csproj|solutionrelative:presentation\\ecommerceap\u0130\\ecommerceap\u0130.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAA972AF-0DA9-4D13-9E2D-5C5442B8155C}|Presentation\\ECOMMERCEAP\u0130\\ECOMMERCEAP\u0130.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\presentation\\ecommerceap\u0130\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAA972AF-0DA9-4D13-9E2D-5C5442B8155C}|Presentation\\ECOMMERCEAP\u0130\\ECOMMERCEAP\u0130.csproj|solutionrelative:presentation\\ecommerceap\u0130\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE399023-B669-4EF9-95B5-7E2AA61CE7C9}|Core\\Domain\\Domain.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\core\\domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,14 +117,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DE399023-B669-4EF9-95B5-7E2AA61CE7C9}|Core\\Domain\\Domain.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\core\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE399023-B669-4EF9-95B5-7E2AA61CE7C9}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE399023-B669-4EF9-95B5-7E2AA61CE7C9}|Core\\Domain\\Domain.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\core\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE399023-B669-4EF9-95B5-7E2AA61CE7C9}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAA972AF-0DA9-4D13-9E2D-5C5442B8155C}|Presentation\\ECOMMERCEAP\u0130\\ECOMMERCEAP\u0130.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\presentation\\ecommerceap\u0130\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAA972AF-0DA9-4D13-9E2D-5C5442B8155C}|Presentation\\ECOMMERCEAP\u0130\\ECOMMERCEAP\u0130.csproj|solutionrelative:presentation\\ecommerceap\u0130\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2979B03-56B0-40DE-87B3-D6A903E32450}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\atunc\\source\\repos\\eticaret\\infrastructure\\persistence\\concrete\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -139,44 +211,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Configuration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Configuration.cs",
-              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Configuration.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Configuration.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAiwAoAAAAFAAAA",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Presentation\\ECOMMERCEAP\u0130\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\ECOMMERCEAP\u0130\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Presentation\\ECOMMERCEAP\u0130\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Presentation\\ECOMMERCEAP\u0130\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAcwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T21:52:47.822Z",
+              "WhenOpened": "2025-02-14T12:09:43.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DesignTimeDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\DesignTimeDbContextFactory.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\DesignTimeDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\DesignTimeDbContextFactory.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\DesignTimeDbContextFactory.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T21:41:09.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ServiceRegistration.cs",
               "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\ServiceRegistration.cs",
               "RelativeToolTip": "Infrastructure\\Persistence\\ServiceRegistration.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAQwBUAAAAMAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T19:41:57.468Z"
+              "WhenOpened": "2025-02-14T19:41:57.468Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ProductWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Repositories\\Product\\ProductWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\Product\\ProductWriteRepository.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Repositories\\Product\\ProductWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\Product\\ProductWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T22:06:15.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Repositories\\WriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\WriteRepository.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Repositories\\WriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\WriteRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAASwA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T21:18:54.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Presentation\\ECOMMERCEAP\u0130\\appsettings.json",
               "RelativeDocumentMoniker": "Presentation\\ECOMMERCEAP\u0130\\appsettings.json",
@@ -184,11 +270,269 @@
               "RelativeToolTip": "Presentation\\ECOMMERCEAP\u0130\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-14T21:39:59.462Z"
+              "WhenOpened": "2025-02-14T21:39:59.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Presentation\\ECOMMERCEAP\u0130\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\ECOMMERCEAP\u0130\\Program.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Presentation\\ECOMMERCEAP\u0130\\Program.cs",
+              "RelativeToolTip": "Presentation\\ECOMMERCEAP\u0130\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T19:50:06.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Repositories\\Order\\OrderReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\Order\\OrderReadRepository.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Repositories\\Order\\OrderReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\Order\\OrderReadRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvw0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T22:03:44.855Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "IOrderReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Repositories\\Order\\IOrderReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Repositories\\Order\\IOrderReadRepository.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Repositories\\Order\\IOrderReadRepository.cs",
+              "RelativeToolTip": "Core\\Application\\Repositories\\Order\\IOrderReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T21:47:30.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Repositories\\Product\\IProductReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Repositories\\Product\\IProductReadRepository.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Repositories\\Product\\IProductReadRepository.cs",
+              "RelativeToolTip": "Core\\Application\\Repositories\\Product\\IProductReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T21:48:22.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Repositories\\Order\\IOrderWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Repositories\\Order\\IOrderWriteRepository.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Repositories\\Order\\IOrderWriteRepository.cs",
+              "RelativeToolTip": "Core\\Application\\Repositories\\Order\\IOrderWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T22:23:32.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Repositories\\Order\\OrderWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\Order\\OrderWriteRepository.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Repositories\\Order\\OrderWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\Order\\OrderWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T22:04:15.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Repositories\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Repositories\\ReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\ReadRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwBAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:59:33.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Repositories\\Product\\ProductReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\Product\\ProductReadRepository.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Repositories\\Product\\ProductReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\Product\\ProductReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T22:05:49.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Repositories\\Customer\\CustomerWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\Customer\\CustomerWriteRepository.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Repositories\\Customer\\CustomerWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\Customer\\CustomerWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T22:03:09.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Repositories\\Customer\\CustomerReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\Customer\\CustomerReadRepository.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Repositories\\Customer\\CustomerReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\Customer\\CustomerReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T22:02:46.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Repositories\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Repositories\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Repositories\\IReadRepository.cs",
+              "RelativeToolTip": "Core\\Application\\Repositories\\IReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:57:26.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Repositories\\IWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Repositories\\IWriteRepository.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Repositories\\IWriteRepository.cs",
+              "RelativeToolTip": "Core\\Application\\Repositories\\IWriteRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvxEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:58:01.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICustomerReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Repositories\\Customer\\ICustomerReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Repositories\\Customer\\ICustomerReadRepository.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Repositories\\Customer\\ICustomerReadRepository.cs",
+              "RelativeToolTip": "Core\\Application\\Repositories\\Customer\\ICustomerReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T21:46:19.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProductWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Repositories\\Product\\IProductWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Repositories\\Product\\IProductWriteRepository.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Repositories\\Product\\IProductWriteRepository.cs",
+              "RelativeToolTip": "Core\\Application\\Repositories\\Product\\IProductWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T21:49:00.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Core\\Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T20:34:41.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICustomerWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Repositories\\Customer\\ICustomerWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Repositories\\Customer\\ICustomerWriteRepository.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Repositories\\Customer\\ICustomerWriteRepository.cs",
+              "RelativeToolTip": "Core\\Application\\Repositories\\Customer\\ICustomerWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T21:46:53.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Core\\Application\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:54:05.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Core\\Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Application.csproj",
+              "RelativeToolTip": "Core\\Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-15T19:50:55.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Configuration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Configuration.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Configuration.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Configuration.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA8wAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T21:52:47.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T21:41:09.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "ETicaretDbContext.cs",
               "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Contexts\\ETicaretDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Contexts\\ETicaretDbContext.cs",
@@ -200,7 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 26,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Domain\\Entities\\Customer.cs",
               "RelativeDocumentMoniker": "Core\\Domain\\Entities\\Customer.cs",
@@ -212,31 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Domain\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Domain\\Entities\\Order.cs",
-              "RelativeToolTip": "Core\\Domain\\Entities\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T20:34:41.946Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Presentation\\ECOMMERCEAP\u0130\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\ECOMMERCEAP\u0130\\Program.cs",
-              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Presentation\\ECOMMERCEAP\u0130\\Program.cs",
-              "RelativeToolTip": "Presentation\\ECOMMERCEAP\u0130\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T19:50:06.5Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 28,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Core\\Domain\\Entities\\Product.cs",
@@ -248,19 +568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Presentation\\ECOMMERCEAP\u0130\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Presentation\\ECOMMERCEAP\u0130\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Presentation\\ECOMMERCEAP\u0130\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Presentation\\ECOMMERCEAP\u0130\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T12:09:43.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 25,
               "Title": "ECOMMERCEAP\u0130.csproj",
               "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Presentation\\ECOMMERCEAP\u0130\\ECOMMERCEAP\u0130.csproj",
               "RelativeDocumentMoniker": "Presentation\\ECOMMERCEAP\u0130\\ECOMMERCEAP\u0130.csproj",
@@ -272,7 +580,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 29,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Persistence\\Concrete\\ProductService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Concrete\\ProductService.cs",
@@ -284,7 +592,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 30,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Abstraction\\IProductService.cs",
               "RelativeDocumentMoniker": "Core\\Application\\Abstraction\\IProductService.cs",
@@ -296,7 +604,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 31,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Domain\\Entities\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Core\\Domain\\Entities\\Common\\BaseEntity.cs",
@@ -308,7 +616,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 32,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Infrastructure\\Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Infrastructure\\Class1.cs",
@@ -320,7 +628,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 33,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Domain\\Class1.cs",
               "RelativeDocumentMoniker": "Core\\Domain\\Class1.cs",
@@ -332,7 +640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 34,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Core\\Application\\Class1.cs",
               "RelativeDocumentMoniker": "Core\\Application\\Class1.cs",
