@@ -27,13 +27,13 @@ namespace Persistence
             services.AddDbContext<ETicaretDbContext>(options => options.UseSqlServer(Configuration.ConnectionString),ServiceLifetime.Singleton);
 
 
-            services.AddSingleton<ICustomerReadRepository,CustomerReadRepository>();
+            services.AddScoped<ICustomerReadRepository,CustomerReadRepository>();
 
-            services.AddSingleton<ICustomerWriteRepository, CustomerWriteRepository>();
-            services.AddSingleton<IProductReadRepository, ProductReadRepository>();
-            services.AddSingleton<IProductWriteRepository,ProductWriteRepository>();
-            services.AddSingleton<IOrderReadRepository, OrderReadRepository>();
-            services.AddSingleton<IOrderWriteRepository, OrderWriteRepository>();
+            services.AddScoped<ICustomerWriteRepository, CustomerWriteRepository>();
+            services.AddScoped<IProductReadRepository, ProductReadRepository>();
+            services.AddScoped<IProductWriteRepository,ProductWriteRepository>();
+            services.AddScoped<IOrderReadRepository, OrderReadRepository>();
+            services.AddScoped<IOrderWriteRepository, OrderWriteRepository>();
 
         }
 
