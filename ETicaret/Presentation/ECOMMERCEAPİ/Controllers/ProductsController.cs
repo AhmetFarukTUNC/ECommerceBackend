@@ -21,13 +21,16 @@ namespace ECOMMERCEAPİ.Controllers
 
         readonly private ICustomerWriteRepository _customerWriteRepository;
 
+        readonly private IOrderReadRepository _orderReadRepository;
 
-        public ProductsController(IProductWriteRepository productWriteRepository, IProductReadRepository productReadRepository, IProductService productService, IOrderWriteRepository orderWriteRepository, ICustomerWriteRepository customerWriteRepository)
+
+        public ProductsController(IProductWriteRepository productWriteRepository, IProductReadRepository productReadRepository, IProductService productService, IOrderWriteRepository orderWriteRepository, ICustomerWriteRepository customerWriteRepository, IOrderReadRepository orderReadRepository)
         {
             _productWriteRepository = productWriteRepository;
             _productReadRepository = productReadRepository;
             _orderWriteRepository = orderWriteRepository;
             _customerWriteRepository = customerWriteRepository;
+            _orderReadRepository = orderReadRepository;
         }
 
 
@@ -37,13 +40,12 @@ namespace ECOMMERCEAPİ.Controllers
         public async Task Get()
         {
 
-            var customerId = Guid.NewGuid();
+            Order order = await _orderReadRepository.GetByIdAsync("99c37bdb-c4b1-447d-eaaa-08dd502f4681");
+            Order order2 = await _orderReadRepository.GetByIdAsync("b9be3ea3-fdfb-4ee6-eaab-08dd502f4681");
 
-            _customerWriteRepository.AddAsync(new() { Id = customerId,Name = "Muiddin"});
+            order.Address = "İstanbul";
 
-            await _orderWriteRepository.AddAsync(new() {Description = "bla bla bla",Address = "Ankara,Çankaya",CustomerId=customerId});
-
-            await _orderWriteRepository.AddAsync(new() { Description = "bla bla bla 2", Address = "Ankara,Pursaklar",CustomerId = customerId });
+            order2.Address = "Çorum";
 
             await _orderWriteRepository.SaveAsync();
 
