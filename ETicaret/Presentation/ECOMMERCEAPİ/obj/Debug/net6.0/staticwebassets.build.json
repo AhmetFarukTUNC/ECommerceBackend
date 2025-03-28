@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "cNQ3YX8Lq2DD4IlzrcTZ2xxc4PWPctAtbFn5lRK3Oeg=",
+  "Hash": "CDhbWaKlj0o6C/PzEQYyDjqk02qYTDX+0OJe6PbcZ8Q=",
   "Source": "ECOMMERCEAPİ",
   "BasePath": "_content/ECOMMERCEAPİ",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ECOMMERCEAPİ\\wwwroot",
+      "Source": "ECOMMERCEAPİ",
+      "ContentRoot": "C:\\Users\\atunc\\source\\repos\\ETicaret\\Presentation\\ECOMMERCEAPİ\\wwwroot\\",
+      "BasePath": "_content/ECOMMERCEAPİ",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

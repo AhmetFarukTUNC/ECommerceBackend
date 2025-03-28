@@ -75,3 +75,10 @@ C:\Users\atunc\source\repos\ETicaret\Presentation\ECOMMERCEAPİ\bin\Debug\net6.0
 C:\Users\atunc\source\repos\ETicaret\Presentation\ECOMMERCEAPİ\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
 C:\Users\atunc\source\repos\ETicaret\Presentation\ECOMMERCEAPİ\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\atunc\source\repos\ETicaret\Presentation\ECOMMERCEAPİ\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\atunc\source\repos\ETicaret\Presentation\ECOMMERCEAPİ\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\atunc\source\repos\ETicaret\Presentation\ECOMMERCEAPİ\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\atunc\source\repos\ETicaret\Presentation\ECOMMERCEAPİ\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\atunc\source\repos\ETicaret\Presentation\ECOMMERCEAPİ\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\atunc\source\repos\ETicaret\Presentation\ECOMMERCEAPİ\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\atunc\source\repos\ETicaret\Presentation\ECOMMERCEAPİ\bin\Debug\net6.0\ECOMMERCEAPİ.staticwebassets.runtime.json
+C:\Users\atunc\source\repos\ETicaret\Presentation\ECOMMERCEAPİ\bin\Debug\net6.0\Newtonsoft.Json.dll
